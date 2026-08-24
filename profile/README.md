@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://bunkerproject.sytes.net/Assets/CobaltBanner.png" width="500">
-</p>
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MvVBbftUYm) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thebunkerproject@waifu.club)
 # The Bunker Project
 
